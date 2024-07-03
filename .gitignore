@@ -1,4 +1,4 @@
 .DS_Store
 .streamlit/secrets.toml
 sample1.txt
-.idea
+.idea/
